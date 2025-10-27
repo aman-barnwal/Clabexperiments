@@ -1,12 +1,12 @@
-# 🧠 C Programming Lab Experiments  
+# 💻 C Programming Lab Experiments  
 
-Welcome to my **C Programming Lab Repository** — a collection of well-documented experiments completed as part of my academic journey.  
-Each experiment includes both the **C source code** and its **output screenshot**, showing real execution results.  
+Welcome to my **C Programming Lab Repository** — a collection of all lab experiments completed as part of my coursework.  
+Each experiment folder includes the **C source code** and its **output screenshot**, showing real working results.  
 
 ---
 
-## 📁 Experiment 1  
-**Basic C Programs — Input, Output, and Address Concepts**
+## 📘 Experiment 1 — *Introduction to C Programming*  
+**Basic I/O, address, and simple arithmetic programs**
 
 | Program | Screenshot |
 |----------|-------------|
@@ -17,8 +17,8 @@ Each experiment includes both the **C source code** and its **output screenshot*
 
 ---
 
-## 📁 Experiment 2  
-**Programs Based on Simple Calculations and Unit Conversions**
+## ⚙️ Experiment 2 — *Calculations and Conversions*  
+**Programs involving mathematical operations and temperature conversions**
 
 | Program | Screenshot |
 |----------|-------------|
@@ -27,35 +27,32 @@ Each experiment includes both the **C source code** and its **output screenshot*
 
 ---
 
-## 📁 Experiment 3.1  
-**Programs Involving Logic, Conditions, and Mathematical Problems**
+## 🧮 Experiment 3.1 — *Conditional Logic and Problem Solving*  
 
 | Program | Screenshot |
 |----------|-------------|
-| [bmi.c](Experiment3_1/bmi.c) | ![bmi.png](Experiment3_1/bmi.png) |
-| [collinear.c](Experiment3_1/collinear.c) | ![collinear.png](Experiment3_1/collinear.png) |
-| [Gregoriancalender.c](Experiment3_1/Gregoriancalender.c) | ![Gregoriancalender.png](Experiment3_1/Gregoriancalender.png) |
-| [ternaryoperator.c](Experiment3_1/ternaryoperator.c) | ![ternaryoperator.png](Experiment3_1/ternaryoperator.png) |
-| [triangles.c](Experiment3_1/triangles.c) | ![triangles.png](Experiment3_1/triangles.png) |
+| [bmi.c](Experiment3/Experiment3_1/bmi.c) | ![bmi.png](Experiment3/Experiment3_1/bmi.png) |
+| [collinear.c](Experiment3/Experiment3_1/collinear.c) | ![collinear.png](Experiment3/Experiment3_1/collinear.png) |
+| [Gregoriancalender.c](Experiment3/Experiment3_1/Gregoriancalender.c) | ![Gregoriancalender.png](Experiment3/Experiment3_1/Gregoriancalender.png) |
+| [ternaryoperator.c](Experiment3/Experiment3_1/ternaryoperator.c) | ![ternaryoperator.png](Experiment3/Experiment3_1/ternaryoperator.png) |
+| [triangles.c](Experiment3/Experiment3_1/triangles.c) | ![triangles.png](Experiment3/Experiment3_1/triangles.png) |
 
 ---
 
-## 📁 Experiment 3.2  
-**Programs Using Loops and Control Statements**
+## 🔁 Experiment 3.2 — *Loops and Iterative Logic*  
 
 | Program | Screenshot |
 |----------|-------------|
-| [multiplicationtable.c](Experiment3_2/multiplicationtable.c) | ![multiplicationtable.png](Experiment3_2/multiplicationtable.png) |
-| [pattern.c](Experiment3_2/pattern.c) | ![pattern.png](Experiment3_2/pattern.png) |
-| [pattern2.c](Experiment3_2/pattern2.c) | ![pattern2.png](Experiment3_2/pattern2.png) |
-| [population.c](Experiment3_2/population.c) | ![population.png](Experiment3_2/population.png) |
-| [ramanujan.c](Experiment3_2/ramanujan.c) | ![ramanujan.png](Experiment3_2/ramanujan.png) |
-| [signinteger.c](Experiment3_2/signinteger.c) | ![signinteger.png](Experiment3_2/signinteger.png) |
+| [multiplicationtable.c](Experiment3/Experiment3_2/multiplicationtable.c) | ![multiplicationtable.png](Experiment3/Experiment3_2/multiplicationtable.png) |
+| [pattern.c](Experiment3/Experiment3_2/pattern.c) | ![pattern.png](Experiment3/Experiment3_2/pattern.png) |
+| [pattern2.c](Experiment3/Experiment3_2/pattern2.c) | ![pattern2.png](Experiment3/Experiment3_2/pattern2.png) |
+| [population.c](Experiment3/Experiment3_2/population.c) | ![population.png](Experiment3/Experiment3_2/population.png) |
+| [ramanujan.c](Experiment3/Experiment3_2/ramanujan.c) | ![ramanujan.png](Experiment3/Experiment3_2/ramanujan.png) |
+| [signinteger.c](Experiment3/Experiment3_2/signinteger.c) | ![signinteger.png](Experiment3/Experiment3_2/signinteger.png) |
 
 ---
 
-## 📁 Experiment 4  
-**Programs Based on Variable Scope and Lifetime**
+## 🧠 Experiment 4 — *Variable Scope and Lifetime*  
 
 | Program | Screenshot |
 |----------|-------------|
@@ -65,8 +62,7 @@ Each experiment includes both the **C source code** and its **output screenshot*
 
 ---
 
-## 📁 Experiment 5  
-**Programs Using Conditional and Iterative Constructs**
+## 🔢 Experiment 5 — *Conditionals and Iterations*  
 
 | Program | Screenshot |
 |----------|-------------|
@@ -77,14 +73,14 @@ Each experiment includes both the **C source code** and its **output screenshot*
 
 ---
 
-## 🦁 Author  
+## 👨‍💻 Author  
 **Aman Barnwal**  
-🎓 UPES
+🎓 Student at UPES  
 📬 [GitHub Profile](https://github.com/aman-barnwal)
 
 ---
 
-## 💡 How to Run  
+## ⚡ How to Run  
 1. Clone this repository  
    ```bash
    git clone https://github.com/aman-barnwal/Cexperiments.git
