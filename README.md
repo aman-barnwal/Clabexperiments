@@ -1,12 +1,12 @@
-# C Programming Lab Experiments  
+# C Programming Lab Experiments
 
 Welcome to my **C Programming Lab Repository** — a well-organized collection of all lab experiments completed during my coursework.  
 Each experiment folder includes both the **C source code** and its **output screenshot**, demonstrating the actual results.
 
 ---
 
-##  Experiment 1 — *Introduction to C Programming*  
-**Basic Input/Output and Arithmetic Programs**
+## Experiment 1 — Introduction to C Programming  
+Basic Input/Output and Arithmetic Programs
 
 | Program | Screenshot |
 |----------|-------------|
@@ -17,8 +17,8 @@ Each experiment folder includes both the **C source code** and its **output scre
 
 ---
 
-##  Experiment 2 — *Calculations and Conversions*  
-**Programs involving area, perimeter, and temperature conversions**
+## Experiment 2 — Calculations and Conversions  
+Programs involving area, perimeter, and temperature conversions
 
 | Program | Screenshot |
 |----------|-------------|
@@ -27,8 +27,8 @@ Each experiment folder includes both the **C source code** and its **output scre
 
 ---
 
-##  Experiment 3.1 — *Conditional Logic and Problem Solving*  
-**Programs implementing conditions, logic, and decision making**
+## Experiment 3.1 — Conditional Logic and Problem Solving  
+Programs implementing conditions, logic, and decision making
 
 | Program | Screenshot |
 |----------|-------------|
@@ -40,8 +40,8 @@ Each experiment folder includes both the **C source code** and its **output scre
 
 ---
 
-##  Experiment 3.2 — *Loops and Iterative Logic*  
-**Programs demonstrating loop structures and iteration concepts**
+## Experiment 3.2 — Loops and Iterative Logic  
+Programs demonstrating loop structures and iteration concepts
 
 | Program | Screenshot |
 |----------|-------------|
@@ -54,8 +54,8 @@ Each experiment folder includes both the **C source code** and its **output scre
 
 ---
 
-##  Experiment 4 — *Variable Scope and Lifetime*  
-**Programs showing use of local and global variables**
+## Experiment 4 — Variable Scope and Lifetime  
+Programs showing use of local and global variables
 
 | Program | Screenshot |
 |----------|-------------|
@@ -65,8 +65,8 @@ Each experiment folder includes both the **C source code** and its **output scre
 
 ---
 
-##  Experiment 5 — *Conditionals and Iterations*  
-**Programs combining conditional statements with iterative logic**
+## Experiment 5 — Arrays and Matrix Operations  
+Programs related to arrays and matrix manipulations
 
 | Program | Screenshot |
 |----------|-------------|
@@ -77,16 +77,63 @@ Each experiment folder includes both the **C source code** and its **output scre
 
 ---
 
-## ‍💻 Author  
-**Aman Barnwal**  
-Student at UPES  
-GitHub: https://github.com/aman-barnwal  
+## Experiment 6 — Functions  
+Programs demonstrating user-defined functions and recursion
+
+| Program | Screenshot |
+|----------|-------------|
+| [factorial_binomial.c](Experiment6/factorial_binomial.c) | ![factorial_binomial.png](Experiment6/factorial_binomial.png) |
+| [gcd.c](Experiment6/gcd.c) | ![gcd.png](Experiment6/gcd.png) |
+| [fibonacci.c](Experiment6/fibonacci.c) | ![fibonacci.png](Experiment6/fibonacci.png) |
+| [prime.c](Experiment6/prime.c) | ![prime.png](Experiment6/prime.png) |
+| [reverse.c](Experiment6/reverse.c) | ![reverse.png](Experiment6/reverse.png) |
 
 ---
 
-## ▶️ How to Run  
+## Experiment 7 — Structures and Unions  
+Programs demonstrating use of structures and unions
 
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/aman-barnwal/Cexperiments.git
+| Program | Screenshot |
+|----------|-------------|
+| [complex.c](Experiment7/complex.c) | ![complex.png](Experiment7/complex.png) |
+| [salary.c](Experiment7/salary.c) | ![salary.png](Experiment7/salary.png) |
+| [book.c](Experiment7/book.c) | ![book.png](Experiment7/book.png) |
+| [union.c](Experiment7/union.c) | ![union.png](Experiment7/union.png) |
+
+---
+
+## Experiment 8 — Pointers  
+Programs illustrating pointer concepts and memory operations
+
+| Program | Screenshot |
+|----------|-------------|
+| [pointer.c](Experiment8/pointer.c) | ![pointer.png](Experiment8/pointer.png) |
+| [pointer_add.c](Experiment8/pointer_add.c) | ![pointer_add.png](Experiment8/pointer_add.png) |
+| [swap.c](Experiment8/swap.c) | ![swap.png](Experiment8/swap.png) |
+
+---
+
+## Experiment 9 — File Handling  
+Programs demonstrating basic file operations in C
+
+| Program | Screenshot |
+|----------|-------------|
+| [write.c](Experiment9/write.c) | ![write.png](Experiment9/write.png) |
+| [read.c](Experiment9/read.c) | ![read.png](Experiment9/read.png) |
+| [readline.c](Experiment9/readline.c) | ![readline.png](Experiment9/readline.png) |
+
+---
+
+## Author  
+Aman Barnwal  
+Student at UPES  
+GitHub: https://github.com/aman-barnwal
+
+---
+
+## How to Run
+
+1. Clone this repository
+```bash
+git clone https://github.com/aman-barnwal/Cexperiments.git
 
