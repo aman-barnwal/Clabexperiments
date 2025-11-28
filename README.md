@@ -1,4 +1,4 @@
-#  C Programming Lab Experiments  
+# C Programming Lab Experiments  
 
 Welcome to my **C Programming Lab Repository** — a well-organized collection of all lab experiments completed during my coursework.  
 Each experiment folder includes both the **C source code** and its **output screenshot**, demonstrating the actual results.
@@ -17,12 +17,12 @@ Each experiment folder includes both the **C source code** and its **output scre
 
 ---
 
-## ⚙️ Experiment 2 — *Calculations and Conversions*  
+##  Experiment 2 — *Calculations and Conversions*  
 **Programs involving area, perimeter, and temperature conversions**
 
 | Program | Screenshot |
 |----------|-------------|
-| [areaandperimenter.c](Experiment2/areaandperimenter.c) | ![areaandperimenter.png](Experiment2/areaandperimenter.png) |
+| [areaandperimenter.c](Experiment2/areaandperimenter.c) | ![areaandperimeter.png](Experiment2/areaandperimeter.png) |
 | [celsiustofahrenheit.c](Experiment2/celsiustofahrenheit.c) | ![celsiustofahrenheit.png](Experiment2/celsiustofahrenheit.png) |
 
 ---
@@ -32,9 +32,9 @@ Each experiment folder includes both the **C source code** and its **output scre
 
 | Program | Screenshot |
 |----------|-------------|
+| [Gregoriancalender.c](Experiment3/Experiment3_1/Gregoriancalender.c) | ![Gregoriancalender.png](Experiment3/Experiment3_1/Gregoriancalender.png) |
 | [bmi.c](Experiment3/Experiment3_1/bmi.c) | ![bmi.png](Experiment3/Experiment3_1/bmi.png) |
 | [collinear.c](Experiment3/Experiment3_1/collinear.c) | ![collinear.png](Experiment3/Experiment3_1/collinear.png) |
-| [Gregoriancalender.c](Experiment3/Experiment3_1/Gregoriancalender.c) | ![Gregoriancalender.png](Experiment3/Experiment3_1/Gregoriancalender.png) |
 | [ternaryoperator.c](Experiment3/Experiment3_1/ternaryoperator.c) | ![ternaryoperator.png](Experiment3/Experiment3_1/ternaryoperator.png) |
 | [triangles.c](Experiment3/Experiment3_1/triangles.c) | ![triangles.png](Experiment3/Experiment3_1/triangles.png) |
 
@@ -59,7 +59,7 @@ Each experiment folder includes both the **C source code** and its **output scre
 
 | Program | Screenshot |
 |----------|-------------|
-| [declarevariables.c](Experiment4/declarevariables.c) | ![declarevariables.png](Experiment4/declarevariables.png) |
+| [declarevariable.c](Experiment4/declarevariable.c) | ![declarevariable.png](Experiment4/declarevariable.png) |
 | [localblocks.c](Experiment4/localblocks.c) | ![localblocks.png](Experiment4/localblocks.png) |
 | [localvariable.c](Experiment4/localvariable.c) | ![localvariable.png](Experiment4/localvariable.png) |
 
@@ -77,14 +77,14 @@ Each experiment folder includes both the **C source code** and its **output scre
 
 ---
 
-## ‍ Author  
+## ‍💻 Author  
 **Aman Barnwal**  
- Student at UPES  
- [GitHub Profile](https://github.com/aman-barnwal)
+Student at UPES  
+GitHub: https://github.com/aman-barnwal  
 
 ---
 
-## How to Run  
+## ▶️ How to Run  
 
 1. Clone this repository  
    ```bash
