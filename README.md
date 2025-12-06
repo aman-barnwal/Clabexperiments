@@ -1,14 +1,14 @@
 # C Programming Lab Experiments
 
-A complete collection of C lab experiments performed during B.Tech CSE coursework at UPES.
-Each directory includes source code and verified execution outputs.
+Academic lab repository for C Programming at UPES.
+All experiments include verified source code and real execution outputs.
 
 ---
 
 ## Experiment 01 — Introduction to C Programming
 
-| Program | Screenshot |
-|----------|------------|
+| Program | Output |
+|----------|--------|
 | [address.c](Experiment01/address.c) | ![address](Experiment01/address.png) |
 | [age.c](Experiment01/age.c) | ![age](Experiment01/age.png) |
 | [helloworld.c](Experiment01/helloworld.c) | ![hello](Experiment01/helloworld.png) |
@@ -18,17 +18,17 @@ Each directory includes source code and verified execution outputs.
 
 ## Experiment 02 — Calculations and Conversions
 
-| Program | Screenshot |
-|----------|------------|
-| [areaandperimenter.c](Experiment02/areaandperimenter.c) | ![area](Experiment02/areaandperimeter.png) |
+| Program | Output |
+|----------|--------|
+| [areaandperimenter.c](Experiment02/areaandperimenter.c) | ![area](Experiment02/areaandperimenter.png) |
 | [celsiustofahrenheit.c](Experiment02/celsiustofahrenheit.c) | ![temp](Experiment02/celsiustofahrenheit.png) |
 
 ---
 
 ## Experiment 03.1 — Conditional Logic
 
-| Program | Screenshot |
-|----------|------------|
+| Program | Output |
+|----------|--------|
 | [Gregoriancalender.c](Experiment03/Experiment3_1/Gregoriancalender.c) | ![calendar](Experiment03/Experiment3_1/Gregoriancalender.png) |
 | [bmi.c](Experiment03/Experiment3_1/bmi.c) | ![bmi](Experiment03/Experiment3_1/bmi.png) |
 | [collinear.c](Experiment03/Experiment3_1/collinear.c) | ![collinear](Experiment03/Experiment3_1/collinear.png) |
@@ -39,8 +39,8 @@ Each directory includes source code and verified execution outputs.
 
 ## Experiment 03.2 — Looping Structures
 
-| Program | Screenshot |
-|----------|------------|
+| Program | Output |
+|----------|--------|
 | [multiplicationtable.c](Experiment03/Experiment3_2/multiplicationtable.c) | ![table](Experiment03/Experiment3_2/multiplicationtable.png) |
 | [pattern.c](Experiment03/Experiment3_2/pattern.c) | ![pattern](Experiment03/Experiment3_2/pattern.png) |
 | [pattern2.c](Experiment03/Experiment3_2/pattern2.c) | ![pattern2](Experiment03/Experiment3_2/pattern2.png) |
@@ -50,10 +50,10 @@ Each directory includes source code and verified execution outputs.
 
 ---
 
-## Experiment 04 — Scope & Storage Classes
+## Experiment 04 — Variables and Scope
 
-| Program | Screenshot |
-|----------|------------|
+| Program | Output |
+|----------|--------|
 | [declarevariable.c](Experiment04/declarevariable.c) | ![declare](Experiment04/declarevariable.png) |
 | [localblocks.c](Experiment04/localblocks.c) | ![blocks](Experiment04/localblocks.png) |
 | [localvariable.c](Experiment04/localvariable.c) | ![local](Experiment04/localvariable.png) |
@@ -62,8 +62,8 @@ Each directory includes source code and verified execution outputs.
 
 ## Experiment 05 — Arrays and Matrices
 
-| Program | Screenshot |
-|----------|------------|
+| Program | Output |
+|----------|--------|
 | [even.c](Experiment05/even.c) | ![even](Experiment05/even.png) |
 | [listofintegers.c](Experiment05/listofintegers.c) | ![list](Experiment05/listofintegers.png) |
 | [listofparticularnumber.c](Experiment05/listofparticularnumber.c) | ![particular](Experiment05/listofparticularnumber.png) |
@@ -73,8 +73,8 @@ Each directory includes source code and verified execution outputs.
 
 ## Experiment 06 — Functions
 
-| Program | Screenshot |
-|----------|------------|
+| Program | Output |
+|----------|--------|
 | [factorial_binomial.c](Experiment06/factorial_binomial.c) | ![factorial](Experiment06/factorial_binomial.png) |
 | [gcd.c](Experiment06/gcd.c) | ![gcd](Experiment06/gcd.png) |
 | [fibonacci.c](Experiment06/fibonacci.c) | ![fibonacci](Experiment06/fibonacci.png) |
@@ -83,12 +83,13 @@ Each directory includes source code and verified execution outputs.
 
 ---
 
-## Experiment 07 — Structures and Unions
+## Experiment 07 — Structures, Unions, Pointers
 
-| Program | Screenshot |
-|----------|------------|
+| Program | Output |
+|----------|--------|
 | [book.c](Experiment07/book.c) | ![book](Experiment07/book.png) |
 | [complex.c](Experiment07/complex.c) | ![complex](Experiment07/complex.png) |
+| [pointer.c](Experiment07/pointer.c) | ![pointer](Experiment07/pointer.png) |
 | [salary.c](Experiment07/salary.c) | ![salary](Experiment07/salary.png) |
 | [union.c](Experiment07/union.c) | ![union](Experiment07/union.png) |
 
@@ -96,8 +97,8 @@ Each directory includes source code and verified execution outputs.
 
 ## Experiment 08 — Pointers
 
-| Program | Screenshot |
-|----------|------------|
+| Program | Output |
+|----------|--------|
 | [pointer.c](Experiment08/pointer.c) | ![pointer](Experiment08/pointer.png) |
 | [pointer_add.c](Experiment08/pointer_add.c) | ![ptradd](Experiment08/pointer_add.png) |
 | [swap.c](Experiment08/swap.c) | ![swap](Experiment08/swap.png) |
@@ -106,8 +107,8 @@ Each directory includes source code and verified execution outputs.
 
 ## Experiment 09 — File Handling
 
-| Program | Screenshot |
-|----------|------------|
+| Program | Output |
+|----------|--------|
 | [write.c](Experiment09/write.c) | ![write](Experiment09/write.png) |
 | [read.c](Experiment09/read.c) | ![read](Experiment09/read.png) |
 | [readline.c](Experiment09/readline.c) | ![readline](Experiment09/readline.png) |
@@ -116,27 +117,27 @@ Each directory includes source code and verified execution outputs.
 
 ## Experiment 10 — Linked List
 
-| Program | Screenshot |
-|----------|------------|
+| Program | Output |
+|----------|--------|
 | [create_list.c](Experiment10/create_list.c) | ![create](Experiment10/create_list.png) |
 | [insert_middle.c](Experiment10/insert_middle.c) | ![insert](Experiment10/insert_middle.png) |
 
 ---
 
-## Experiment 11 — Bitwise and Macros
+## Experiment 11 — Bitwise Operations and Macros
 
-| Program | Screenshot |
-|----------|------------|
+| Program | Output |
+|----------|--------|
 | [bitwise_basic.c](Experiment11/bitwise_basic.c) | ![bitwise](Experiment11/bitwise_basic.png) |
 | [shift.c](Experiment11/shift.c) | ![shift](Experiment11/shift.png) |
 | [macro_func.c](Experiment11/macro_func.c) | ![macro](Experiment11/macro_func.png) |
 
 ---
 
-## Experiment 12 — Constants and Macros
+## Experiment 12 — Constants and Macro Functions
 
-| Program | Screenshot |
-|----------|------------|
+| Program | Output |
+|----------|--------|
 | [constant.c](Experiment12/constant.c) | ![constant](Experiment12/constant.png) |
 | [macro_function.c](Experiment12/macro_function.c) | ![macrof](Experiment12/macro_function.png) |
 
@@ -149,5 +150,6 @@ SAP ID: 590028933
 GitHub: https://github.com/aman-barnwal
 
 ---
+
 
 
